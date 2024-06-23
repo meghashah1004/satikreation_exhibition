@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/satikreation_exhibition/static/css/main.d48cb3e0.css",
+    "main.js": "/satikreation_exhibition/static/js/main.d2309959.js",
+    "static/js/453.0f386766.chunk.js": "/satikreation_exhibition/static/js/453.0f386766.chunk.js",
+    "index.html": "/satikreation_exhibition/index.html",
+    "main.d48cb3e0.css.map": "/satikreation_exhibition/static/css/main.d48cb3e0.css.map",
+    "main.d2309959.js.map": "/satikreation_exhibition/static/js/main.d2309959.js.map",
+    "453.0f386766.chunk.js.map": "/satikreation_exhibition/static/js/453.0f386766.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d48cb3e0.css",
+    "static/js/main.d2309959.js"
+  ]
+}
